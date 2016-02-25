@@ -1,3 +1,1 @@
 # FOQX
-
-#prova funzioni
